@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @anonymoustallguy
+- 👀 I’m interested in robotics
+- 🌱 I’m currently learning AI
